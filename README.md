@@ -9,3 +9,6 @@
 </p>
 
 # <h1 align="center">Ponytown's Cater yahoooo</h1>
+<p align="center">
+<img width="381" height="45" alt="Screenshot 2026-08-04 10 43 34" src="https://github.com/user-attachments/assets/adb47ddd-229b-4d87-a8e7-93ac2777416c" />
+</p>
